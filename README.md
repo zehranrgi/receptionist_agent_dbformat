@@ -34,8 +34,6 @@ streamlit run app.py
 - LangSmith: Tracks all agent/tool calls with full observability
 
 
-<img width="844" height="344" alt="image" src="https://github.com/user-attachments/assets/693ee936-a12d-4fef-970c-36c551f85806" />
-
 
 
 ## Tools
@@ -43,3 +41,6 @@ streamlit run app.py
 - `get_services`: Fetches barber services
 - `get_business_info`: Fetches business details
 - `get_appointments`: Queries SQLite appointments
+
+<img width="844" height="344" alt="image" src="https://github.com/user-attachments/assets/693ee936-a12d-4fef-970c-36c551f85806" />
+
