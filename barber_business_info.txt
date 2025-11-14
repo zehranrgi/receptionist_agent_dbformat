@@ -1,0 +1,42 @@
+BARBER SHOP INFORMATION
+
+Name: Golden Cuts Barber Shop
+
+Location: 
+123 Main Street
+Downtown District
+City, State 12345
+
+Hours:
+Monday - Friday: 9:00 AM - 7:00 PM
+Saturday: 8:00 AM - 6:00 PM
+Sunday: 10:00 AM - 5:00 PM
+
+Contact:
+Phone: (555) 123-4567
+Email: info@goldencuts.com
+Website: www.goldencuts.com
+
+Barbers:
+- Marco (15+ years experience)
+- Alex (8 years experience)
+- Tommy (5 years experience)
+
+About Us:
+Golden Cuts is a premier barber shop dedicated to providing exceptional grooming services. We pride ourselves on attention to detail and customer satisfaction.
+
+Parking:
+Free street parking available. Lot behind building available for customers.
+
+Payment Methods:
+- Cash
+- Credit/Debit Cards
+- Mobile Payments (Apple Pay, Google Pay)
+
+Loyalty Program:
+Every 10th visit gets 15% discount. Ask our staff about membership.
+
+Special Offers:
+- First-time customers: 10% off
+- Group bookings: 20% discount
+- Corporate packages available

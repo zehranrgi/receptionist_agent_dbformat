@@ -1,0 +1,37 @@
+BARBER SERVICES
+
+Premium Haircut - $35
+Classic, modern, and trendy cuts for all hair types.
+Duration: 30 minutes
+
+Beard Trim & Shape - $25
+Professional beard trimming and shaping service.
+Duration: 20 minutes
+
+Hair Styling - $40
+Custom styling with premium products.
+Duration: 45 minutes
+
+Fade Service - $30
+Professional fade haircut with precision.
+Duration: 25 minutes
+
+Kids Cut - $20
+Special haircut service for children.
+Duration: 20 minutes
+
+Beard Design - $45
+Detailed beard design and artwork.
+Duration: 60 minutes
+
+Hot Towel Shave - $50
+Traditional hot towel shave service.
+Duration: 30 minutes
+
+Hair Coloring - $60
+Professional hair coloring service.
+Duration: 90 minutes
+
+Package Deals:
+- Haircut + Beard Trim: $55 (normally $60)
+- Full Grooming Package: $120 (haircut, beard trim, hot towel shave)
