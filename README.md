@@ -33,6 +33,11 @@ streamlit run app.py
 - `setup_db.py`: Database initialization
 - LangSmith: Tracks all agent/tool calls with full observability
 
+
+<img width="844" height="344" alt="image" src="https://github.com/user-attachments/assets/693ee936-a12d-4fef-970c-36c551f85806" />
+
+
+
 ## Tools
 
 - `get_services`: Fetches barber services
